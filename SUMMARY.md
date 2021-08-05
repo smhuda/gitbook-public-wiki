@@ -89,4 +89,9 @@
   * [Running a Service at Boot](automation/untitled.md)
   * [Network Connectivity Cron](automation/network-connectivity-cron.md)
 * [Favourite Reads/Links](favourite-reads-links.md)
+* [Programing](programing/README.md)
+  * [Python](programing/python/README.md)
+    * [Removing Index Column Pandas](programing/python/removing-index-column-pandas.md)
+    * [Regex - Remove HTML Tags](programing/python/regex-remove-html-tags.md)
+    * [Column Header Mapping](programing/python/column-header-mapping.md)
 
