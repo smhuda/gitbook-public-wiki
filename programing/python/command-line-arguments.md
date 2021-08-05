@@ -217,5 +217,53 @@ if args.foo is None and args.bar is None:
    pa.error("at least one of --foo and --bar required")
 ```
 
+### Example 8: If arg is A, do this, if B do that, if none of the above show help and quit
+
+```text
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("a")
+args = parser.parse_args()
+
+if args.a == 'magic.name':
+    print 'You nailed it!'
+```
+
+**adding to it:**
+
+```text
+...
+parser.add_argument("a", nargs='?', default="check_string_for_empty")
+...
+if args.a == 'check_string_for_empty':
+    print 'I can tell that no argument was given and I can deal with that here.'
+elif args.a == 'magic.name':
+    print 'You nailed it!'
+else:
+    print args.a
+```
+
+**Or try the following:**
+
+Here's the way I do it with `argparse` \(with multiple args\):
+
+```text
+parser = argparse.ArgumentParser(description='Description of your program')
+parser.add_argument('-f','--foo', help='Description for foo argument', required=True)
+parser.add_argument('-b','--bar', help='Description for bar argument', required=True)
+args = vars(parser.parse_args())
+```
+
+`args` will be a dictionary containing the arguments:
+
+```text
+if args['foo'] == 'Hello':
+    # code here
+
+if args['bar'] == 'World':
+    # code her
+```
+
 
 
