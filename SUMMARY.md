@@ -18,6 +18,7 @@
 * [Infrastructure Security](pentesting/infrastructure-security/README.md)
   * [Internal Infrastructure](pentesting/infrastructure-security/internal-infrastructure/README.md)
     * [Mounting NFS Shares](pentesting/infrastructure-security/internal-infrastructure/mounting-nfs-shares.md)
+    * [Password Cracking/Auditing](pentesting/infrastructure-security/internal-infrastructure/password-cracking-auditing.md)
     * [Remote Access Sheet](pentesting/infrastructure-security/internal-infrastructure/remote-access-sheet.md)
     * [Active Directory](pentesting/infrastructure-security/internal-infrastructure/active-directory.md)
     * [Kerberoasting](pentesting/infrastructure-security/internal-infrastructure/kerberoasting.md)
