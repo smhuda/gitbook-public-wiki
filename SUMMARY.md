@@ -8,6 +8,7 @@
   * [Mobile App Security](pentesting/application-security/mobile-security/README.md)
     * [Android Application Testing](pentesting/application-security/mobile-security/android-application-testing.md)
     * [iOS Application Testing](pentesting/application-security/mobile-security/ios/README.md)
+      * [IPA Analysis Using MobSF](pentesting/application-security/mobile-security/ios/ipa-analysis-using-mobsf.md)
       * [iOS Jailbreak Bypass](pentesting/application-security/mobile-security/ios/ios-jailbreak-bypass.md)
   * [Web Application Security](pentesting/application-security/web-application-security/README.md)
     * [Web Shells](pentesting/application-security/web-application-security/web-shells.md)
