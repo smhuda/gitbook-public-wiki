@@ -12,6 +12,7 @@
       * [IPA Analysis Using MobSF](pentesting/application-security/mobile-security/ios/ipa-analysis-using-mobsf.md)
       * [iOS Jailbreak Bypass](pentesting/application-security/mobile-security/ios/ios-jailbreak-bypass.md)
       * [Decrypting iOS Apps](pentesting/application-security/mobile-security/ios/decrypting-ios-apps.md)
+      * [iOS Reverse Engineering](pentesting/application-security/mobile-security/ios/ios-reverse-engineering.md)
   * [Web Application Security](pentesting/application-security/web-application-security/README.md)
     * [Web Shells](pentesting/application-security/web-application-security/web-shells.md)
     * [CSV Injection](pentesting/application-security/web-application-security/csv-injection.md)
