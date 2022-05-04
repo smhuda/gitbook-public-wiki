@@ -20,6 +20,7 @@
     * [Security Checklist](pentesting/application-security/api-security/untitled.md)
 * [Infrastructure Security](pentesting/infrastructure-security/README.md)
   * [Internal Infrastructure](pentesting/infrastructure-security/internal-infrastructure/README.md)
+    * [Red Team Powershell Scripts](pentesting/infrastructure-security/internal-infrastructure/red-team-powershell-scripts.md)
     * [Mounting NFS Shares](pentesting/infrastructure-security/internal-infrastructure/mounting-nfs-shares.md)
     * [Password Cracking/Auditing](pentesting/infrastructure-security/internal-infrastructure/password-cracking-auditing.md)
     * [Remote Access Sheet](pentesting/infrastructure-security/internal-infrastructure/remote-access-sheet.md)
