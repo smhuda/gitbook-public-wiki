@@ -116,3 +116,5 @@
 * [Interview Prep](misc/interview-prep/README.md)
   * [Senior Penetration Tester](misc/interview-prep/senior-penetration-tester.md)
 * [CVSS Formula](misc/cvss-formula.md)
+* [Android Rooting](misc/android-rooting/README.md)
+  * [Lineage OS 18.1 on OnePlus X](misc/android-rooting/lineage-os-18.1-on-oneplus-x.md)
