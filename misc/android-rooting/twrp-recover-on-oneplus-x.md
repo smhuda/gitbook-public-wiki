@@ -4,6 +4,8 @@
 
 {% embed url="https://www.androidgreek.com/how-to-install-twrp-recovery-and-root-oneplus-x-guide/" %}
 
+* [https://twrp.me/oneplus/oneplusx.html](https://twrp.me/oneplus/oneplusx.html)
+
 #### Basic Pre-Requirements
 
 1. Enable USB Debugging on your OnePlus X

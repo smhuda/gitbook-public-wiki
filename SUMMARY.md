@@ -119,3 +119,4 @@
 * [Android Rooting](misc/android-rooting/README.md)
   * [Lineage OS 18.1 on OnePlus X](misc/android-rooting/lineage-os-18.1-on-oneplus-x.md)
   * [TWRP Recover on OnePlus X](misc/android-rooting/twrp-recover-on-oneplus-x.md)
+  * [Magisk Rooting](misc/android-rooting/magisk-rooting.md)
