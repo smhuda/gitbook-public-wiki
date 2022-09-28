@@ -14,7 +14,7 @@ description: >-
 
 ## **GitBooks/Wikis:**
 
-* [https://guide.offsecnewbie.com/](https://guide.offsecnewbie.com)
-* [https://book.hacktricks.xyz/](https://book.hacktricks.xyz)
+* [https://guide.offsecnewbie.com/](https://guide.offsecnewbie.com/)
+* [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/)
 
 ****

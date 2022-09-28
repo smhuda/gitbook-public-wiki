@@ -6,13 +6,15 @@
 
 * [Application Security](pentesting/application-security/README.md)
   * [Mobile App Security](pentesting/application-security/mobile-security/README.md)
-    * [Android Application Testing](pentesting/application-security/mobile-security/android-application-testing.md)
+    * [Android Application Testing](pentesting/application-security/mobile-security/android-application-testing/README.md)
+      * [Security Checklist](pentesting/application-security/mobile-security/android-application-testing/security-checklist.md)
     * [iOS Application Testing](pentesting/application-security/mobile-security/ios/README.md)
       * [iOS Testing Using Objection](pentesting/application-security/mobile-security/ios/ios-testing-using-objection.md)
       * [IPA Analysis Using MobSF](pentesting/application-security/mobile-security/ios/ipa-analysis-using-mobsf.md)
       * [iOS Jailbreak Bypass](pentesting/application-security/mobile-security/ios/ios-jailbreak-bypass.md)
       * [Decrypting iOS Apps](pentesting/application-security/mobile-security/ios/decrypting-ios-apps.md)
       * [iOS Reverse Engineering](pentesting/application-security/mobile-security/ios/ios-reverse-engineering.md)
+      * [Jailbreak Detection Bypasses](pentesting/application-security/mobile-security/ios/jailbreak-detection-bypasses.md)
   * [Web Application Security](pentesting/application-security/web-application-security/README.md)
     * [Web Shells](pentesting/application-security/web-application-security/web-shells.md)
     * [CSV Injection](pentesting/application-security/web-application-security/csv-injection.md)
@@ -78,6 +80,8 @@
 * [Scoping](pentesting/scoping/README.md)
   * [Scoping Questionnaires](pentesting/scoping/scoping-questionnaires/README.md)
     * [Mobile App Testing](pentesting/scoping/scoping-questionnaires/mobile-app-testing.md)
+* [OSINT](pentesting/osint/README.md)
+  * [Dark Web OSINT](pentesting/osint/dark-web-osint.md)
 
 ## ⌨ Programming
 
@@ -120,3 +124,5 @@
   * [Lineage OS 18.1 on OnePlus X](misc/android-rooting/lineage-os-18.1-on-oneplus-x.md)
   * [TWRP Recover on OnePlus X](misc/android-rooting/twrp-recover-on-oneplus-x.md)
   * [Magisk Rooting](misc/android-rooting/magisk-rooting.md)
+* [Presentation Slides](misc/presentation-slides/README.md)
+  * [BlackHat - USA \[2022\]](misc/presentation-slides/blackhat-usa-2022.md)
