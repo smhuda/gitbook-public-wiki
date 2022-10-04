@@ -33,6 +33,8 @@
     * [Cached Wireless Keys](pentesting/infrastructure-security/wireless-security/cached-wireless-keys.md)
     * [Aircrack Suite](pentesting/infrastructure-security/wireless-security/aircrack-suite.md)
 * [SSL/TLS Security](pentesting/ssl-tls-security.md)
+* [Secure Code Review](pentesting/secure-code-review/README.md)
+  * [Python](pentesting/secure-code-review/python.md)
 * [Cloud Security](pentesting/cloud-security/README.md)
   * [Cloud Penetration Testing](pentesting/cloud-security/cloud-penetration-testing.md)
 * [Social Engineering](pentesting/social-engineering/README.md)
