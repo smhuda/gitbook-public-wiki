@@ -21,6 +21,7 @@
   * [API Security](pentesting/application-security/api-security/README.md)
     * [Security Checklist](pentesting/application-security/api-security/untitled.md)
     * [Postman and Burp](pentesting/application-security/api-security/postman-and-burp.md)
+    * [CURL via BurpSuite](pentesting/application-security/api-security/curl-via-burpsuite.md)
 * [Infrastructure Security](pentesting/infrastructure-security/README.md)
   * [Internal Infrastructure](pentesting/infrastructure-security/internal-infrastructure/README.md)
     * [Red Team Powershell Scripts](pentesting/infrastructure-security/internal-infrastructure/red-team-powershell-scripts.md)
