@@ -34,6 +34,7 @@
   * [Wireless Security](pentesting/infrastructure-security/wireless-security/README.md)
     * [Cached Wireless Keys](pentesting/infrastructure-security/wireless-security/cached-wireless-keys.md)
     * [Aircrack Suite](pentesting/infrastructure-security/wireless-security/aircrack-suite.md)
+  * [External Infrastructure](pentesting/infrastructure-security/external-infrastructure.md)
 * [SSL/TLS Security](pentesting/ssl-tls-security.md)
 * [Secure Code Review](pentesting/secure-code-review/README.md)
   * [Python](pentesting/secure-code-review/python.md)
