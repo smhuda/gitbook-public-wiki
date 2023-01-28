@@ -83,6 +83,7 @@
   * [Kill Process On Specific Port](pentesting/errors-and-solutions/kill-process-on-specific-port.md)
   * [Kill SSH Port Forwarding](pentesting/errors-and-solutions/kill-ssh-port-forwarding.md)
   * [SSH Key](pentesting/errors-and-solutions/ssh-key.md)
+  * [Expanding Disk on Kali VM](pentesting/errors-and-solutions/expanding-disk-on-kali-vm.md)
 * [Scoping](pentesting/scoping/README.md)
   * [Scoping Questionnaires](pentesting/scoping/scoping-questionnaires/README.md)
     * [Mobile App Testing](pentesting/scoping/scoping-questionnaires/mobile-app-testing.md)
@@ -133,6 +134,6 @@
 * [Presentation Slides](misc/presentation-slides/README.md)
   * [BlackHat - USA \[2022\]](misc/presentation-slides/blackhat-usa-2022.md)
 
-## Group 1
+## 🐞 Vulnerability Wiki
 
-* [🐞 Vulnerability Wiki](group-1/vulnerability-wiki.md)
+* [Page 1](vulnerability-wiki/page-1.md)
