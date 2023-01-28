@@ -136,4 +136,4 @@
 
 ## 🐞 Vulnerability Wiki
 
-* [Page 1](vulnerability-wiki/page-1.md)
+* [Authentication Bypass](vulnerability-wiki/authentication-bypass.md)
