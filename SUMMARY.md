@@ -51,7 +51,7 @@
   * [Aquatone](pentesting/tool-usage/aquatone.md)
   * [Tmux](pentesting/tool-usage/tmux.md)
   * [Ipainstaller](pentesting/tool-usage/ipainstaller.md)
-  * [IP From Command Line](pentesting/tool-usage/ip-from-command-line.md)
+  * [Public IP From Command Line](pentesting/tool-usage/ip-from-command-line.md)
   * [Wifite](pentesting/tool-usage/wifite.md)
   * [IKE Scan](pentesting/tool-usage/ike-scan.md)
   * [Grep](pentesting/tool-usage/grep.md)
