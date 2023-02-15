@@ -79,6 +79,7 @@
   * [BloodHound](pentesting/tool-usage/bloodhound.md)
   * [Netcat File Transfer](pentesting/tool-usage/netcat-file-transfer.md)
   * [OpenVAS](pentesting/tool-usage/openvas.md)
+  * [BurpSuite](pentesting/tool-usage/burpsuite.md)
 * [Errors and Solutions](pentesting/errors-and-solutions/README.md)
   * [Kill Process On Specific Port](pentesting/errors-and-solutions/kill-process-on-specific-port.md)
   * [Kill SSH Port Forwarding](pentesting/errors-and-solutions/kill-ssh-port-forwarding.md)
