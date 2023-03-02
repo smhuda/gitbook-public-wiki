@@ -9,6 +9,8 @@
     * [Android Application Testing](pentesting/application-security/mobile-security/android-application-testing/README.md)
       * [Security Checklist](pentesting/application-security/mobile-security/android-application-testing/security-checklist.md)
       * [SSL Pinning Bypasses](pentesting/application-security/mobile-security/android-application-testing/ssl-pinning-bypasses.md)
+      * [Non-Proxy Aware Applications](pentesting/application-security/mobile-security/android-application-testing/non-proxy-aware-applications/README.md)
+        * [Setting up VPN Server](pentesting/application-security/mobile-security/android-application-testing/non-proxy-aware-applications/setting-up-vpn-server.md)
     * [iOS Application Testing](pentesting/application-security/mobile-security/ios/README.md)
       * [iOS Testing Using Objection](pentesting/application-security/mobile-security/ios/ios-testing-using-objection.md)
       * [IPA Analysis Using MobSF](pentesting/application-security/mobile-security/ios/ipa-analysis-using-mobsf.md)
