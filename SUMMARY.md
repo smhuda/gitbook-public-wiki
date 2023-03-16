@@ -24,6 +24,7 @@
       * [Jailbreak Detection Bypasses](pentesting/application-security/mobile-security/ios/jailbreak-detection-bypasses.md)
       * [iOS Local Storage Checks](pentesting/application-security/mobile-security/ios/ios-local-storage-checks.md)
       * [Installing IPA](pentesting/application-security/mobile-security/ios/installing-ipa.md)
+      * [ATS Auditing](pentesting/application-security/mobile-security/ios/ats-auditing.md)
   * [Web Application Security](pentesting/application-security/web-application-security/README.md)
     * [Web Shells](pentesting/application-security/web-application-security/web-shells.md)
     * [CSV Injection](pentesting/application-security/web-application-security/csv-injection.md)
