@@ -15,6 +15,7 @@
       * [Common Proxying Issues](pentesting/application-security/mobile-security/android-application-testing/common-proxying-issues.md)
       * [Android Local Storage Checks](pentesting/application-security/mobile-security/android-application-testing/android-local-storage-checks.md)
       * [Android Task Hijacking](pentesting/application-security/mobile-security/android-application-testing/android-task-hijacking.md)
+      * [Kiosk Mode / Breakout Testing](pentesting/application-security/mobile-security/android-application-testing/kiosk-mode-breakout-testing.md)
     * [iOS Application Testing](pentesting/application-security/mobile-security/ios/README.md)
       * [iOS Testing Using Objection](pentesting/application-security/mobile-security/ios/ios-testing-using-objection.md)
       * [IPA Analysis Using MobSF](pentesting/application-security/mobile-security/ios/ipa-analysis-using-mobsf.md)
