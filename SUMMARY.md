@@ -29,6 +29,7 @@
   * [Web Application Security](pentesting/application-security/web-application-security/README.md)
     * [Web Shells](pentesting/application-security/web-application-security/web-shells.md)
     * [CSV Injection](pentesting/application-security/web-application-security/csv-injection.md)
+    * [Measure Response Time using CURL](pentesting/application-security/web-application-security/measure-response-time-using-curl.md)
   * [API Security](pentesting/application-security/api-security/README.md)
     * [Security Checklist](pentesting/application-security/api-security/untitled.md)
     * [Postman and Burp](pentesting/application-security/api-security/postman-and-burp.md)
