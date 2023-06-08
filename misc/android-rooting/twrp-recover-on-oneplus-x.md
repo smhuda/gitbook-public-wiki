@@ -44,7 +44,7 @@ There are two Methods to Root Your OnePlus X
 
 **Using SuperSU Zip**
 
-1. &#x20;[**Download SuperSU Zip**](https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip) **and** [**Download No verity opt encrypt.zip**](https://www.mediafire.com/file/p3zhivru97bdlke/no-verity-opt-encrypt-6.1.zip/file) **** and Move to Mobile Storage.
+1. &#x20;[**Download SuperSU Zip**](https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip) **and** [**Download No verity opt encrypt.zip**](https://www.mediafire.com/file/p3zhivru97bdlke/no-verity-opt-encrypt-6.1.zip/file) and Move to Mobile Storage.
 2. Then Switch your Phone
 3. Turn On your at Recovery Mode (hold the Volume Down + Power button)
 4. Please Take Android Backup Before
@@ -59,7 +59,7 @@ There are two Methods to Root Your OnePlus X
 
 **By Using Download Magisk Zip**
 
-1. &#x20;[**Download Magisk Zip**](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) **and** [**Download No verity opt encrypt.zip**](http://www.mediafire.com/file/p3zhivru97bdlke/no-verity-opt-encrypt-6.1.zip/file) **** and Move to Mobile Storage
+1. &#x20;[**Download Magisk Zip**](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) **and** [**Download No verity opt encrypt.zip**](http://www.mediafire.com/file/p3zhivru97bdlke/no-verity-opt-encrypt-6.1.zip/file) and Move to Mobile Storage
 2. Then Switch your Phone
 3. Turn On your at Recovery Mode (hold the Volume Down + Power button)
 4. TWRP Recovery, Select INSTALL

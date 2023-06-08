@@ -9,7 +9,7 @@
 * [LineageOS 18.1](https://drive.google.com/file/d/1CjP5fcLfrChWErnY0Dm1nomFrS\_DFeJw/view?usp=sharing)
 * [Gapps](https://sourceforge.net/projects/opengapps/files/arm/test/20210130/)
 * [Recovery - TWRP 3.2.3 14.02.2019](https://drive.google.com/file/d/1qx4JGFJG9UJO0ulDSI6a3hGtNF7dffdP/view?usp=sharing)
-* [`https://twrp.me/oneplus/oneplusx.html`](https://twrp.me/oneplus/oneplusx.html)``
+* [`https://twrp.me/oneplus/oneplusx.html`](https://twrp.me/oneplus/oneplusx.html)
 
 ## Prerequisites
 
